@@ -1,3 +1,6 @@
+# Tim Goonan
+# Can use for personal use, just give credit
+
 # You have to download the train and test data off kaggle for the animal shelter competition
 # You also have to import the library nnet to be able to use the multinom function
 
